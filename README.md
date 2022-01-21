@@ -1,2 +1,2 @@
 # MetaCodeSum
-A meta learning based apporach for code summarization
+A meta learning based approach for code summarization
